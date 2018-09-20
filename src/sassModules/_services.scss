@@ -1,0 +1,32 @@
+
+.teknisk-innovation-produktion-och-radgivning strong{
+  font-size: 1.5em;
+}
+.digit img {
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+
+}
+
+.teknisk-innovation-produktion-och-radgivning .txt strong{
+  
+  font-size: 100px;
+  text-align: center;
+  color: rgba(225,225,225,.1);
+  background-image:url("images/wallpapers.jpg");
+  background-repeat: repeat-x;
+  -webkit-background-clip:text;
+  animation: kmit 15s linear infinite;
+}
+
+@keyframes  kmit{
+
+  0%{
+    background-position: left 0px top 10px;
+  }
+  40%{
+    background-position: left 400px top 10px;
+  }
+}

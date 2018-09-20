@@ -1,0 +1,3 @@
+export const GET_DATA = "GET_DATA";
+export const GET_DATA_FULFILLED ="GET_DATA_FULFILLED";
+export const GET_DATA_PENDING ="GET_DATA_PENDING";

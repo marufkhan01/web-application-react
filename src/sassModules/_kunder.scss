@@ -1,0 +1,13 @@
+.nagra-av-vara-kunder img{
+    border: 4px solid #fefefe;
+    box-shadow: 0 0 0 1px hsla(0,0%,4%,.2);
+    display: inline-block;
+    line-height: 0;
+    max-width: 100%;
+    transition: box-shadow .2s ease-out;
+    border-radius: 0;
+    margin-bottom: 1rem;
+}
+.nagra-av-vara-kunder img:hover {
+    box-shadow: 0 0 6px 1px rgba(149,13,13,.5);
+ }

@@ -1,0 +1,15 @@
+@import "../node_modules/foundation-sites/scss/foundation";
+@import "./sassModules/settings";
+@include foundation-everything(true);
+@import "./sassModules/base";
+@import "./sassModules/header";
+@import "./sassModules/hero-image";
+@import "./sassModules/services";
+@import "./sassModules/kunder";
+@import "./sassModules/om-oss";
+@import "./sassModules/filosofi";
+@import "./sassModules/karriar";
+@import "./sassModules/kvalitet-miljo";
+@import "./sassModules/aktuellt";
+@import "./sassModules/kontakta-oss";
+

@@ -1,0 +1,34 @@
+.hero-section{
+  background: #950d0d;
+  color: #fff;
+  .hero-section__button--white{
+  color: #950d0d;
+  background-color: #fff;
+}
+.hero-section__button--white:hover{
+  background-color: transparent;
+  color: #fff;
+  border: 1px solid #fff;
+}
+.hero-section__button--hollow{
+  background-color: transparent;
+  color: #fff;
+  border: 1px solid #fff;
+  margin-left: 18px;
+}
+.hero-section__button--hollow:hover{
+  color: #950d0d;
+  background-color: #fff;
+  border: 1px solid #fff;
+}
+.hero-section__site--logo{
+  background-image: url(./images/kmit-logo-2366d0058f.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  text-indent: -999em;
+  height: 2.5em;
+  width: 2.5em;
+  margin: 0 auto;
+  }
+}
